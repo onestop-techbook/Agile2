@@ -1,0 +1,30 @@
+PREDEF:
+  # はじめに
+  - preface.re
+
+CHAPS:
+  - chap-sft2021.re
+  - chap-orinbou.re
+  - chap-arakawa-ke.re
+  - chap-fkino.re
+  - chap-amixedcolor.re
+  - chap-matsunaga_recovery.re
+  - chap-chinmo.re
+  - chap-koito.re
+  - chap-mayunak.re
+  - chap-matsunaga.re
+  - chap-otkshol.re
+  - chap-watanabe.re
+  - chap-nakai_book.re
+  - chap-oyakata-community.re
+  - chap-jk-event.re
+  - chap-scrummasudar.re
+  - chap-roteskleid.re
+
+POSTDEF:
+  # あとがき
+  - postscript.re
+
+    # 執筆者一覧
+  # - contributors.re
+
