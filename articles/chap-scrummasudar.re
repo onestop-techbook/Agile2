@@ -30,7 +30,7 @@
 
 
  * Scrum Alliance®が提供する認定スクラムマスター(Certified ScrumMaster®/CSM®)
- * Scrum Inc.が提供する認定スクラムマスター(Licensed Scrum Master)
+ * Scrum Inc.が提供する認定スクラムマスター(Registered Scrum Master®)
  * Scrum.orgが提供するProfessional Scrum Master™
 
 
@@ -52,10 +52,10 @@ CSMは、2日間または3日間の研修を受け、その後ペーパーテス
 
 認定取得のための費用は、20万円から30万円程度です。
 
-=== 認定スクラムマスター(Licensed Scrum Master)
+=== 認定スクラムマスター(Registered Scrum Master®)
 
 
-日本語では同じ「認定スクラムマスター」ではありますが、Licensed Scrum Master(以下LSM)は、Scrum Inc.が認定する資格です。
+日本語では同じ「認定スクラムマスター」ではありますが、Registered Scrum Master®(以下RSM)は、Scrum Inc.が認定する資格です。
 2日間の研修を受け、その後ペーパーテストに合格することで、認定されます。
 
 
@@ -69,7 +69,7 @@ CSMは、2日間または3日間の研修を受け、その後ペーパーテス
 
 
 Professional Scrum Master™(以下PSM)は、Scrum.orgが提供する認定資格です。
-CSMやLSMと異なり、研修への参加が必須ではなく、ペーパーテストに合格するのみで、認定資格を得ることができます。
+CSMやRSMと異なり、研修への参加が必須ではなく、ペーパーテストに合格するのみで、認定資格を得ることができます。
 
 
 日本語への対応が他の2資格と比較すると遅れており、ペーパーテストは英語のみです。
