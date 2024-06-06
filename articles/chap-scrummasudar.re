@@ -56,11 +56,13 @@
 
 
 日本語では同じ「認定スクラムマスター」ではありますが、Registered Scrum Master®(以下RSM)は、Scrum Inc.が認定する資格です。
-2日間の研修を受け、その後ペーパーテストに合格することで、認定されます。
+2022年7月に、Licensed Scrum MasterからRegistered Scrum Master®に名称が変更されました。
+
+2日間の研修を受け、その後ペーパーテストに合格することで、資格を得ることができます。
 
 
-2024年7月時点で、日本では、Scrum Inc. Japanのみが研修を提供をしています。
-研修の日程は、Scrum Inc. JapanのWebサイト(@<href>{https://scruminc.jp/, https://scruminc.jp/})から確認することができます。
+2024年7月時点で、日本で研修を実施している企業は、Scrum Inc. Japan、株式会社永和システムマネジメント、 LSA CONSULTiNG株式会社の3社です。
+研修の日程は、各社のWebサイトから確認することができます。
 
 
 認定取得のための費用は、20万円程度です。
