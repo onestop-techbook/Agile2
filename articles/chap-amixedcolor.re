@@ -77,7 +77,13 @@
         \includegraphics[width=.75\linewidth]{images/amixedcolor.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        amixedcolor @amixedcolor https://twitter.com/amixedcolor\\
+        amixedcolor/エイミ（保 龍児）\\
+		https://twitter.com/amixedcolor
         \end{minipage}
     \hspace{1ex}
 //}
+
+
+株式会社Relic エンジニア
+
+新規事業開発、アジャイル、AWS、完全没入型仮想現実、歌、漫画が好きです。
