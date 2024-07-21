@@ -69,3 +69,15 @@
 
 
 第二十五走者！スプリントレトロスペクティブ！ようやく伏線が回収された！日本語では、いわゆる「ふりかえり」のことを指すぞ！経験主義だからこそ、過去の経験から次の行動を決定する、らしさが出ているところだ！
+
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/amixedcolor.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        amixedcolor @amixedcolor https://twitter.com/amixedcolor\\
+        \end{minipage}
+    \hspace{1ex}
+//}
