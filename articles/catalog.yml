@@ -3,12 +3,14 @@ PREDEF:
   - preface.re
 
 CHAPS:
+  - chap-howtoagile.re
   - chap-sft2021.re
   - chap-orinbou.re
   - chap-arakawa-ke.re
   - chap-fkino.re
   - chap-amixedcolor.re
   - chap-matsunaga_recovery.re
+  - chap-matsunaga-planning.re
   - chap-chinmo.re
   - chap-koito.re
   - chap-mayunak.re
