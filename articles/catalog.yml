@@ -22,6 +22,8 @@ CHAPS:
   - chap-jk-event.re
   - chap-scrummasudar.re
   - chap-roteskleid.re
+  - sec-intro.re
+  - sec-trial.re
 
 POSTDEF:
   # あとがき
