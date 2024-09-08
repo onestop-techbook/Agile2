@@ -203,10 +203,11 @@ CSMやRSMと異なり、研修への参加が必須ではなく、テストに�
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         増田 謙太郎@scrummasudar https://twitter.com/scrummasudar\\
-        https://scrummasudar.hatenablog.com/
+        https://scrummasudar.com
+        https://scrummasudar.hatenablog.com
         \end{minipage}
     \hspace{1ex}
 //}
 
-フリーランスのスクラムマスター。スクラム道関西運営メンバー。アジャイルラジオメインパーソナリティ。
-2014年、セキュリティソフトウェア企業でアジャイル開発に出会い、2015年からスクラムマスターを担当。2021年、フリーランスとなり、ゲーム業界でスクラムマスターとして、LeSSに取り組んでいる。
+フリーランス(屋号:SCRUMMASUDAR)のスクラムマスター。スクラム道関西運営メンバー。アジャイルラジオメインパーソナリティ。
+2014年、セキュリティソフトウェア企業でアジャイル開発に出会い、2015年からスクラムマスターを担当。2021年、フリーランスとなり、ゲーム業界にてスクラムマスターとしてLeSSに取り組んでいる。
