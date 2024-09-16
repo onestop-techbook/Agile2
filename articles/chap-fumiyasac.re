@@ -101,7 +101,7 @@ iOS/Android両方のUIガイドライン、レイアウトエンジン、ナビ�
 
 という観点から判断をするときの参考になれば嬉しく思います。
 
-普段から心がけておくとよいポイント
+【普段から心がけておくとよいポイント】
 
 
 
@@ -207,11 +207,11 @@ iOS/Android間での差異を意識しながらよりよい実装を考えるた
         \includegraphics[width=.75\linewidth]{images/chap-fumiyasac/fumiyasac400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        fumiyasac\\
-		https://twitter.com/fumiyasac
+        酒井 文也 @fumiyasac https://twitter.com/fumiyasac\\
         \end{minipage}
     \hspace{1ex}
 //}
 
-
-fumiyasac
+fumiyasacアプリのUI実装が好きな元デザイナーからジョブチェンジをしたエンジニア。
+平素の業務以外でもUI実装に関するサンプルや解説記事を投稿したり、iOS/Androidアプリ開発での勉強会で登壇しています。
+アイデアを練ったり、設計のためのメモや図解を作る時はもっぱら手書きで描くことが多いです。
