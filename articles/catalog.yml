@@ -3,16 +3,19 @@ PREDEF:
   - preface.re
 
 CHAPS:
+  - chap-howtoagile.re
   - chap-sft2021.re
   - chap-orinbou.re
   - chap-arakawa-ke.re
   - chap-fkino.re
   - chap-amixedcolor.re
   - chap-matsunaga_recovery.re
+  - chap-matsunaga-planning.re
   - chap-chinmo.re
   - chap-koito.re
   - chap-mayunak.re
   - chap-matsunaga.re
+  - chap-fumiyasac.re
   - chap-otkshol.re
   - chap-watanabe.re
   - chap-nakai_book.re
@@ -20,6 +23,8 @@ CHAPS:
   - chap-jk-event.re
   - chap-scrummasudar.re
   - chap-roteskleid.re
+  - sec-intro.re
+  - sec-trial.re
 
 POSTDEF:
   # あとがき
