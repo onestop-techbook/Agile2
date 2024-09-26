@@ -88,7 +88,7 @@
 
 XPはKent Beck、Ward Cunningham によって生み出され、その後1996年にKent Beck は Ron Jeffries、Martin Fowlerとともに、プロジェクトでXPの実践を行いました。
 
-これらの実践におけるの知見などをふまえ、1999 年Kent Beck により『Extreme Programming Explained: Embrace Change』（邦題は『エクストリームプログラミング』）という1冊の本@<fn>{xpbook}@<fn>{bookinfo}が世に出ました。
+これらの実践におけるの知見などを踏まえ、1999 年Kent Beck により『Extreme Programming Explained: Embrace Change』（邦題は『エクストリームプログラミング』）という1冊の本@<fn>{xpbook}@<fn>{bookinfo}が世に出ました。
 
 //footnote[bookinfo][Kent Beck, Cynthia Andres, Addison-Wesley Professional, 1999]
 //footnote[xpbook][以下、XP本と記載します。2004年に内容を一新して公開された邦訳の第2版は、現在も購入可能です（https://www.ohmsha.co.jp/book/9784274217623/）。また、前述したXPがはじめて実践されたプロジェクトについての話も、第17章「はじまりの物語」に記載があります。]
