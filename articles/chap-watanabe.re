@@ -1,7 +1,7 @@
 = 独学でアジャイルを学ぶ
 
 //flushright{
-渡部 啓太 @sobarecord
+渡部 啓太
 //}
 
 == 独りで学ぶという選択肢
@@ -129,7 +129,7 @@
         \includegraphics[width=.75\linewidth]{images/chap-watanabe/watanabe_icon.jpeg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        渡部啓太 @sobarecord https://twitter.com/sobarecord\\
+        渡部啓太
         チーム設計師
         \end{minipage}
     \hspace{1ex}
