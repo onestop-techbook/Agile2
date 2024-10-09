@@ -20,9 +20,9 @@ J.K（@project_j_k）
 |XP祭り|2002|@<href>{http://xpjug.com/, http://xpjug.com/}<br>日本のレジェンドさんたちもニューカマーもわいわいするお祭り。いろんな人が集結していてとっても賑やか！ プロポーザルの登竜門のような存在でもあるとか。|
 |Agile Japan|2009|@<href>{https://agilejapan.jp/, https://agilejapan.jp/}<br>「アジャイルマニフェスト」を翻訳した平鍋健児氏を中心に立ち上げられた、おそらく国内はじめてのアジャイルカンファレンス。歴代実行委員の方々が築いてきたからこそ今がある、伝統に支えられながら変化を続けている。|
 |Regional Scrum Gathering Tokyo|2010|@<href>{https://www.scrumgatheringtokyo.org/, https://www.scrumgatheringtokyo.org/}<br>日本のスクラムの熱量を牽引し続けるカンファレンス。ここで登壇するために、1年間何を積み重ねていくのかを考えている人が多く、チケットやスポンサー枠の完売の早さも風物詩となっている。|
-|Innovation Sprint|2011|@<href>{http://innovationsprint.com/, http://innovationsprint.com/}<br>「スクラム」の生みの親である野中郁次郎氏と育ての親ともいえるJeff Sutherland博士が集まった伝説のイベント。グローバルやイノベーションがキーワードとなっていた。|
+|Innovation Sprint|2011|@<href>{http://innovationsprint.com/, http://innovationsprint.com/}<br>「スクラム」の生みの親である野中郁次郎氏と育ての親ともいえるJeff Sutherland氏が集まった伝説のイベント。グローバルやイノベーションがキーワードとなっていた。|
 |DevOpsDays Tokyo|2012|@<href>{https://www.devopsdaystokyo.org/, https://www.devopsdaystokyo.org/}<br>世界中で開催されているDevOpsDaysの日本リージョン。桜の描かれた素敵なロゴは海外からもスピーカーに来てほしいという想いからで、毎年4月に開催されている。|
-|Scrum Interaction|2019|<br>Scrum Inc. Japan主催のカンファレンス。2019年はスクラムの父、Dr. Jeff Sutherland 、そして、スクラムの祖父、野中郁次郎先生らを招いて開催。他社とのコラボレーションなど、かたちを変えながら継続中。|
+|Scrum Interaction|2019|<br>Scrum Inc. Japan主催のカンファレンス。2019年はスクラムの父、Dr. Jeff Sutherland 、そして、スクラムの祖父、野中郁次郎氏らを招いて開催。他社とのコラボレーションなど、かたちを変えながら継続中。|
 |Agile Tech EXPO|2020|@<href>{https://agiletechexpo.com/, https://agiletechexpo.com/}<br>パンデミックにより対面で集まりたくても集まれなくなってしまった我々にオンラインで集まる機会を切り拓くべく発足し、始動。学生も社会人も国籍もないカンファレンスを目指し日々活動中。|
 |ふりかえりカンファレンス|2021|@<href>{https://www.facebook.com/hurikaerijissenkai/, https://www.facebook.com/hurikaerijissenkai/}<br>ふりかえり実践者たちが集う、学びの多いカンファレンス。録画を見るだけでも参加する価値があるかも。ふりカエルが可愛い！|
 |アジャイル経営カンファレンス|2022|@<href>{https://agile-keiei-conf.jp/, https://agile-keiei-conf.jp/}<br>ビジネスアジリティを高めてスピーディな経営判断を実現する「アジャイル経営」という考え方を実現・推進するマネジメント層向けのイベント。|
