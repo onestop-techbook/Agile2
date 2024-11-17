@@ -19,8 +19,8 @@ J.K（@project_j_k）
 |--|--|--|
 |XP祭り|2002|@<href>{http://xpjug.com/, http://xpjug.com/}<br>日本のレジェンドさんたちもニューカマーもわいわいするお祭り。いろんな人が集結していてとっても賑やか！ プロポーザルの登竜門のような存在でもあるとか。|
 |Agile Japan|2009|@<href>{https://agilejapan.jp/, https://agilejapan.jp/}<br>「アジャイルマニフェスト」を翻訳した平鍋健児氏を中心に立ち上げられた、おそらく国内はじめてのアジャイルカンファレンス。歴代実行委員の方々が築いてきたからこそ今がある、伝統に支えられながら変化を続けている。|
-|Regional Scrum Gathering Tokyo|2010|@<href>{https://www.scrumgatheringtokyo.org/, https://www.scrumgatheringtokyo.org/}<br>日本のスクラムの熱量を牽引し続けるカンファレンス。ここで登壇するために、1年間何を積み重ねていくのかを考えている人が多く、チケットやスポンサー枠の完売の早さも風物詩となっている。|
 |Innovation Sprint|2011|@<href>{http://innovationsprint.com/, http://innovationsprint.com/}<br>「スクラム」の生みの親である野中郁次郎氏と育ての親ともいえるJeff Sutherland氏が集まった伝説のイベント。グローバルやイノベーションがキーワードとなっていた。|
+|Regional Scrum Gathering Tokyo|2011|@<href>{https://www.scrumgatheringtokyo.org/, https://www.scrumgatheringtokyo.org/}<br>日本のスクラムの熱量を牽引し続けるカンファレンス。ここで登壇するために、1年間何を積み重ねていくのかを考えている人が多く、チケットやスポンサー枠の完売の早さも風物詩となっている。|
 |DevOpsDays Tokyo|2012|@<href>{https://www.devopsdaystokyo.org/, https://www.devopsdaystokyo.org/}<br>世界中で開催されているDevOpsDaysの日本リージョン。桜の描かれた素敵なロゴは海外からもスピーカーに来てほしいという想いからで、毎年4月に開催されている。|
 |Scrum Interaction|2019|<br>Scrum Inc. Japan主催のカンファレンス。2019年はスクラムの父、Dr. Jeff Sutherland 、そして、スクラムの祖父、野中郁次郎氏らを招いて開催。他社とのコラボレーションなど、かたちを変えながら継続中。|
 |Agile Tech EXPO|2020|@<href>{https://agiletechexpo.com/, https://agiletechexpo.com/}<br>パンデミックにより対面で集まりたくても集まれなくなってしまった我々にオンラインで集まる機会を切り拓くべく発足し、始動。学生も社会人も国籍もないカンファレンスを目指し日々活動中。|
@@ -37,7 +37,7 @@ J.K（@project_j_k）
 |--|--|--|
 |Scrum Fest Osaka|2002|@<href>{https://www.scrumosaka.org/, https://www.scrumosaka.org/}<br>Regional Scrum Gathering Tokyoから生まれたスクフェス第1号。2年目からはオンラインで全国の地域コミュニティを巻き込みながらかたちを変え、2025からはまた新しい運営メンバーではじまるとのこと。|
 |Scrum Fest Mikawa|2020|@<href>{https://www.scrumfestmikawa.org/, https://www.scrumfestmikawa.org/}<br>スクフェス第2号。初回から現地会場 × オンラインのハイブリッド開催で賑わう。参加者さんもスポンサーさんも製造業が多いのが特徴。|
-|Scrum Fest Sapporo|2020|@<href>{https://www.scrumfestsapporo.org/, https://www.scrumfestsapporo.org/}<br>歴史と伝統のあるアジャイル札幌が主催で、暖かい雰囲気が大好き。お手製のお土産ボックスが最高に美味しい体験を提供してくれて、北海道に思いを馳せてしまう。2023年から。|
+|Scrum Fest Sapporo|2020|@<href>{https://www.scrumfestsapporo.org/, https://www.scrumfestsapporo.org/}<br>歴史と伝統のあるアジャイル札幌が主催で、暖かい雰囲気が大好き。お手製のお土産ボックスが最高に美味しい体験を提供してくれて、北海道に思いを馳せてしまう。2023年から舞台は後述のニセコへ。|
 |Scrum Fest Niigata|2022|@<href>{https://www.scrumfestniigata.org/, https://www.scrumfestniigata.org/}<br>オーガナイザーさんの愛と情熱のおもてなしが現地参加者を歓喜の渦に。テスト・QAさんの色が濃ゆい。|
 |Scrum Fest Sendai|2022|@<href>{https://www.scrumfestsendai.org/, https://www.scrumfestsendai.org/}<br>サメのようなマスコットキャラクターが誕生！ シャーやサメといった語尾が伝染する参加者が続出。東北のアジャイルの入り口に。|
 |Scrum Fest Fukuoka|2023|@<href>{https://www.scrumfestfukuoka.org/, https://www.scrumfestfukuoka.org/}<br>スクフェスが遂に九州に上陸。|
